@@ -42,6 +42,8 @@ The following machine learning models were trained and evaluated:
 
 The **Cat Boosting model** performed the best across all metrics.
 
+We can also Focus on recall because the cost of losing a customer in telecom industry is high, that means missing a churning customer (False Negative) can result in lost revenue and customer lifetime value (CLV). Also A telecom company wants to identify all customers likely to churn so it can target them with retention offers. Even if some customers are wrongly flagged as churning (False Positives), they can still receive offers, which may strengthen loyalty. So, Prioritize recall to ensure no potential churners are missed.
+
 ---
 
 ## 🛠️ Tools and Libraries
